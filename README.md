@@ -1,0 +1,1 @@
+Este grupo de notebooks toman como input un vcf de multiples muestras y dan como output árboles en formato newick (VCFtoNJ), árboles y alineamientos múltiples (VCFtoML), o gráficos de asignación de ploidía (VCFtoPLOID)
